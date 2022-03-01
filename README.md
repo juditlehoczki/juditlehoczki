@@ -1,10 +1,11 @@
-### Welcome to my GitHub 👋
+## Welcome to my GitHub 👋
+👩🏻‍💻 I am Judit Lehoczki, Software Developer 👩🏻‍💻
 
-A quick learner, most motivated by new challenges. Experienced in working remotely while adopting agile practices such as pair-programming, scrum methods, test-driven and iterative development.
-A proactive team player with strong work ethic.
-Strong problem solving skills with excellent attention to detail.
+I am most motivated by new challenges and always eager to learn. I have experience in working remotely while adopting agile practices such as pair-programming, scrum methods, test-driven and iterative development.
+I am a proactive team player with strong work ethic. I have strong problem solving skills with excellent attention to detail.
 
-A driven individual with great passion for coding. Most motivated by new challenges and always eager to learn. Experienced in working remotely while adopting agile practices such as pair-programming, scrum methods, test-driven and iterative development.
+### Main tech I work with
+`React-Native` `React` `Node.js` `TypeScript` `JavaScript`
 
 ## Recommendations
 
@@ -14,5 +15,5 @@ A driven individual with great passion for coding. Most motivated by new challen
 
 (more on my [LinkedIN](https://www.linkedin.com/in/juditlehoczki/) profile)
 
-## Connect With Me
+## Get In Touch
 ➡️ https://linktr.ee/juditlehoczki
